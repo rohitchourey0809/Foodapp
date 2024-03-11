@@ -1,0 +1,52 @@
+#all-content{
+   width: 90%;
+   height: 500px;
+   margin: auto;
+   border: 1px solid #161515;
+   background-image: url("https://media.istockphoto.com/photos/culinary-background-with-traditional-ingredients-of-italian-cuisine-picture-id1278745986?b=1&k=20&m=1278745986&s=170667a&w=0&h=O7DjUu6D-mBNvwS68Ou_BmNF22a5XwrQgk2j9uV2Hs4=");
+  
+  background-repeat: no-repeat;
+  background-size: 100% 500px;
+  margin-top: 10px;
+  text-align: center;
+
+ 
+  
+
+}
+#heading{
+    margin-top: 40px;
+}
+#text{
+    width: 600px;
+    height: 50px;
+    border-radius: 20px;
+    opacity:50% ;
+    font-size: xx-large;
+    font-family: cursive;
+    text-align: center;
+}
+#search-items{
+     width: 500px;
+     height: 200px;
+     scroll-behavior: auto;
+     /* border:  1px solid white; */
+     margin: auto;
+     overflow-y: scroll;
+      text-align: center;
+   
+
+}
+#div{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    padding: 10px;
+    /* border: 1px solid white; */
+}
+#img{
+    width: 200px;
+    height: 100%;
+}
