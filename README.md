@@ -12,7 +12,7 @@ i have used Html5, CSS, Advance JavaScript, Fetch Web API, Import/Export, Paytm 
 
 ## About Website:
 
- [Foodcloneapp](https://foodapp-plum.vercel.app/)Discover, create, and share delectable recipes effortlessly with our user-friendly app, bringing the joy of cooking to your fingertips in a compact, delightful package.
+ [Foodcloneapp](https://foodapp-plum.vercel.app/)  Discover, create, and share delectable recipes effortlessly with our user-friendly app, bringing the joy of cooking to your fingertips in a compact, delightful package.
 
 ## Tech Stack Used:
  We have used Html5, CSS, Advance JavaScript, for building this Project.
@@ -85,11 +85,13 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 - Add more integrations
 
 
-## Screenshots
+<!-- ## Screenshots
 
 ![App Screenshot](https://miro.medium.com/max/875/0*oebBk9nq6yzO0k1F.png)
 ![App Screenshot](https://miro.medium.com/max/875/0*jTX9ioOB_94Jh_2H.png)
 ![App Screenshot](https://miro.medium.com/max/875/0*7W-c2RSbIFLoRmMk.png)
+
+-->
 
 
 
